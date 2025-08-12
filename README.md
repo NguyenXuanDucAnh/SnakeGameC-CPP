@@ -1,2 +1,0 @@
-# SnakeGameC-CPP
-SnakeGameC-CPP
